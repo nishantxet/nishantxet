@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishantxet
+- 👋 Hi, I’m NISHANT
 - 👀 I’m interested in Frontend Development(Web Development)
 - 🌱 I’m currently learning React, Git, HTML, CSS, Javascript, Bootstrap 
 - 💞️ I’m looking to collaborate on Learning new Skills
